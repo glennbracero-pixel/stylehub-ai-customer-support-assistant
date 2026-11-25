@@ -26,3 +26,10 @@ logs/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Credentials and tokens
+credentials.json
+token.json
+*_oauth_client.json
+*_token.json
+secrets/
