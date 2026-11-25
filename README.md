@@ -1,3 +1,11 @@
+## 🚀 Live Demo
+
+**Try the StyleHub Customer Support Demo here:**
+
+👉 [Open Live Demo](https://styleapp-ai-customer-support-assistant-cywbepw5i8vxkiegcvmzrx.streamlit.app/)
+
+> **Note:** This is a public interactive prototype using predefined sample responses. It is not connected to a live store, customer accounts, or the original local AI system.
+
 \# StyleHub AI Customer Support Assistant
 
 
