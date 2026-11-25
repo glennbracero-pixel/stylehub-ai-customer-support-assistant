@@ -1,0 +1,42 @@
+# StyleHub Online Store
+## Frequently Asked Questions (FAQ)
+
+### 1. How long does shipping take?
+Standard shipping takes approximately 3–7 business days after dispatch. Express shipping takes approximately 1–3 business days after dispatch.
+
+### 2. How much does shipping cost?
+Standard shipping costs $5.99. Express shipping costs $12.99. Orders totaling $75 or more qualify for free standard shipping.
+
+### 3. Can I return an item?
+Yes. Customers may request a return within 30 days of receiving their order. Items must be unused, unworn, and in their original condition.
+
+### 4. How long do refunds take?
+Approved refunds are issued to the original payment method. Processing may take 5–10 business days after approval.
+
+### 5. What payment methods do you accept?
+StyleHub accepts Visa, Mastercard, American Express, and PayPal.
+
+### 6. Can I exchange an item?
+Customers may contact Customer Support to ask about an exchange. Exchanges depend on product availability and must be approved by Customer Support.
+
+### 7. How can I track my order?
+Customers receive a tracking number by email after their order has been dispatched. Tracking information may take up to 24 hours to become available.
+
+### 8. What should I do if my order arrives damaged?
+Contact StyleHub Customer Support with your order number and photographs showing the damage. Customer Support will review the issue and explain the available next steps.
+
+### 9. Can I cancel my order?
+The current StyleHub policies do not specify an order cancellation procedure. Customers should contact Customer Support for assistance.
+
+### 10. Do you offer international shipping?
+The current StyleHub policies do not specify international shipping availability. Customers should contact Customer Support to confirm.
+
+### 11. How can I contact customer support?
+Customers can contact StyleHub Customer Support for assistance with orders, returns, payments, and product questions.
+
+### 12. Important AI Assistant Instructions
+- Answer using the available StyleHub documents.
+- Never invent company policies, prices, delivery dates, or product availability.
+- If information is missing, clearly say that you do not have enough information.
+- Direct customers to Customer Support when a human review is required.
+- Never request passwords, full card numbers, or payment security codes.

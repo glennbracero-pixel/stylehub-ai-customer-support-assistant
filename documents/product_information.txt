@@ -1,0 +1,45 @@
+# StyleHub Online Store
+## Product Information
+
+### 1. Classic Cotton T-Shirt
+- Product category: Tops
+- Material: 100% cotton
+- Available sizes: Small, Medium, Large, Extra Large
+- Available colors: Black, White, Navy, Gray
+- Price: $24.99
+- Description: A comfortable everyday cotton T-shirt with a simple design.
+- Care instructions: Machine wash cold. Tumble dry low.
+
+### 2. Everyday Hoodie
+- Product category: Sweatshirts
+- Material: 80% cotton and 20% polyester
+- Available sizes: Small, Medium, Large, Extra Large
+- Available colors: Black, Gray, Navy
+- Price: $49.99
+- Description: A soft casual hoodie suitable for everyday wear.
+- Care instructions: Machine wash cold. Do not bleach.
+
+### 3. Slim Fit Jeans
+- Product category: Bottoms
+- Material: 98% cotton and 2% elastane
+- Available sizes: 28, 30, 32, 34, 36
+- Available colors: Blue, Black
+- Price: $59.99
+- Description: Comfortable slim-fit jeans with a little stretch.
+- Care instructions: Machine wash inside out with similar colors.
+
+### 4. Casual Summer Dress
+- Product category: Dresses
+- Material: 100% polyester
+- Available sizes: Small, Medium, Large, Extra Large
+- Available colors: Floral, Black, Beige
+- Price: $44.99
+- Description: A lightweight casual dress suitable for warm weather.
+- Care instructions: Machine wash cold on a gentle cycle.
+
+### 5. Important Product Information
+- Product prices are listed in US dollars.
+- Product availability may change.
+- The assistant must not claim that an item is in stock unless current inventory information is available.
+- Customers should contact StyleHub Customer Support to confirm product availability.
+- Product descriptions and materials are provided for general reference.

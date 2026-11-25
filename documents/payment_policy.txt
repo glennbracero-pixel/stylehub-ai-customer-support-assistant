@@ -1,0 +1,39 @@
+# StyleHub Online Store
+## Payment Policy
+
+### 1. Accepted Payment Methods
+StyleHub currently accepts:
+- Visa
+- Mastercard
+- American Express
+- PayPal
+
+### 2. Payment Processing
+- Payment is collected during checkout.
+- Orders are processed after payment authorization is successful.
+- Customers receive an order confirmation email after a successful purchase.
+
+### 3. Payment Failures
+- If a payment is declined, customers should check their payment details.
+- Customers may contact their bank or payment provider for assistance.
+- Customers may try another accepted payment method.
+- A declined payment does not guarantee that an order has been placed.
+
+### 4. Duplicate Charges
+- If a customer believes they have been charged more than once, they should contact StyleHub Customer Support.
+- Customers should provide their order number and relevant payment details.
+- StyleHub will review the transaction information.
+
+### 5. Refund Payments
+- Approved refunds are returned to the original payment method.
+- Refund processing may take 5–10 business days after approval.
+- The time it takes for funds to appear depends on the customer's bank or payment provider.
+
+### 6. Payment Security
+- Customers should only enter payment information through the official StyleHub checkout.
+- Customers should never share their full card number, security code, or account password with Customer Support.
+- StyleHub Customer Support will never ask customers to disclose their account passwords.
+
+### 7. Important Information
+- Payment authorization does not always mean an order has been successfully placed.
+- Payment disputes and suspected duplicate charges must be reviewed by Customer Support.
